@@ -371,7 +371,7 @@ For a curated list of learning resources please check out [desireevl's repo](htt
 - [Qiskit Experiments](https://github.com/Qiskit-Extensions/qiskit-experiments) - Python package for quantum error correction experiments (supported by IBM).
 - [Qsurface](https://github.com/watermarkhu/qsurface) - Python package for simulation and visualization of quantum error-correction on surface codes.
 - [Tesseract Decoder](https://github.com/quantumlib/tesseract-decoder) - Most Likely Error decoder designed for Low Density Parity Check (LDPC) quantum error-correcting codes.
-
+- "ZXQEP" (https://github.com/alexshupp26/zxqep) - Python package for injecting, propagating, and visualizing errors in quantum circuits using ZX-calculus.
 ## Quantum and post-quantum cryptography
 
 **C**
